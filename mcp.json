@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "github-agentplugin-fixture": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/mcp/server.mjs",
+        "github",
+        "1.0.0",
+        "GITHUB_FULL_MCP_V1"
+      ]
+    }
+  }
+}
