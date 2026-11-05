@@ -1,1 +1,1 @@
-github/full/1.0.0/V1
+github/full/1.1.0/V2

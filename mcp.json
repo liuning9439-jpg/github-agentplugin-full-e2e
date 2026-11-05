@@ -7,8 +7,8 @@
       "args": [
         "${PLUGIN_ROOT}/mcp/server.mjs",
         "github",
-        "1.0.0",
-        "GITHUB_FULL_MCP_V1"
+        "1.1.0",
+        "GITHUB_FULL_MCP_V2"
       ]
     }
   }

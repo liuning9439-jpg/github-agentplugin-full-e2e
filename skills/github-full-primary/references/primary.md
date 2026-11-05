@@ -1,3 +1,3 @@
 # primary
 
-github/full/1.0.0/primary
+github/full/1.1.0/primary

@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "github-agentplugin-full-e2e",
-  "version": "1.0.0",
-  "description": "github AgentPlugin full E2E fixture 1.0.0.",
+  "version": "1.1.0",
+  "description": "github AgentPlugin full E2E fixture 1.1.0.",
   "author": {
     "name": "AgentPlugin Test"
   },
@@ -16,7 +16,7 @@
     "com.bytedance.agentplugin-test": {
       "source": "github",
       "kind": "full",
-      "fixtureVersion": "1.0.0"
+      "fixtureVersion": "1.1.0"
     }
   }
 }

@@ -1,3 +1,3 @@
 # secondary
 
-github/full/1.0.0/secondary
+github/full/1.1.0/secondary
